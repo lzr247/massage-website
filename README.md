@@ -1,24 +1,15 @@
-# masaza
-
+# massage-website
+Massage website made with Vue.js + Vuetify.
+# heroku link
+```
+https://masaza.herokuapp.com/
+```
 ## Project setup
+To install dependencies go to root directory and then run:
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+To start project run:
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
